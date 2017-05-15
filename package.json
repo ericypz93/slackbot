@@ -1,8 +1,8 @@
 {
-  "name": "erictestbot",
+  "name": "slackbot",
   "version": "0.0.1",
   "description": "Simple testing Node server",
-  "main": "app.js",
+  "main": "Node.js",
   "author": "eric yeo",
   "license": "MIT",
   "dependencies": {
